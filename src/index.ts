@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { cluster } from "./cluster";
+import { cluster } from "./lib/cluster";
 
 const app = new Hono();
 

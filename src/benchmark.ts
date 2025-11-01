@@ -1,6 +1,6 @@
 import { serve } from "@hono/node-server";
 import app from ".";
-import { generateRandomPoints } from "./utils";
+import { generateRandomPoints } from "./lib/utils";
 import { ServerType } from "@hono/node-server";
 
 const PORT = 3000;
