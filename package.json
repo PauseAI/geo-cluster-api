@@ -12,15 +12,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/geojson": "^7946.0.12",
-    "@types/node": "^24.5.2",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^24.9.2",
     "tsx": "^4.20.6",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@hono/node-server": "^1.19.5",
+    "@hono/node-server": "^1.19.6",
     "@turf/turf": "^7.2.0",
-    "hono": "^4.9.9",
+    "hono": "^4.10.4",
     "ml-hclust": "^3.1.0"
   }
 }
